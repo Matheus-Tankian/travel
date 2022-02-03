@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "87609536064",
-    "project_id": "fb-crud-react-d403c",
-    "storage_bucket": "fb-crud-react-d403c.appspot.com"
+    "project_number": ,
+    "project_id": 
+    "storage_bucket": 
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:87609536064:android:c251ceeddbce5b174fb9a5",
+        "mobilesdk_app_id": 
         "android_client_info": {
           "package_name": "com.example.travel"
         }
       },
       "oauth_client": [
         {
-          "client_id": "87609536064-5cp3n324v1gu2epadhgasb3kd8gntud7.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCYfFzsW7k53TACrb-8OeRqyV9XvwcgZ_8"
+          "current_key": "
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "87609536064-5cp3n324v1gu2epadhgasb3kd8gntud7.apps.googleusercontent.com",
+              "client_id":",
               "client_type": 3
             }
           ]
